@@ -4,7 +4,7 @@ A web application that helps users find the perfect laptop friendly spots in add
 
 ## Features
 - **Detailed Comparisons**: Compare multiple locations side by side
-- **User Authentication**: Create accounts to save favorite spots and preferences
+- **Routing**: Go to your selected spot effortlessly
 - **Responsive Design**: Optimized for both desktop and mobile devices
 
 ## tech stacks
