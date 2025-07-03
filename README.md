@@ -3,8 +3,6 @@
 A web application that helps users find the perfect laptop friendly spots in addis ababa based on their preferences and requirements. Built with Next.js and MongoDB.
 
 ## Features
-
-- **Advanced Search**: Filter spots by amenities, location, noise level, and more
 - **Detailed Comparisons**: Compare multiple locations side by side
 - **User Authentication**: Create accounts to save favorite spots and preferences
 - **Responsive Design**: Optimized for both desktop and mobile devices
@@ -18,7 +16,7 @@ A web application that helps users find the perfect laptop friendly spots in add
 
 you can see the deployed version at: https://laptop-friendly-by-gebeta-maps.vercel.app
 
-## 🛠️ Installation
+## Installation
 1. First things first, get your GebetaMaps API KEY. 
     you can get it from: https://gebeta.app/
 2. Clone the repo
