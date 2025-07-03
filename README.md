@@ -16,6 +16,7 @@ A web application that helps users find the perfect laptop friendly spots in add
 - **Authentication**: NextAuth
 - **File Uploads**: UploadThing
 
+you can see the deployed version at: https://laptop-friendly-by-gebeta-maps.vercel.app
 
 ## 🛠️ Installation
 1. First things first, get your GebetaMaps API KEY. 
